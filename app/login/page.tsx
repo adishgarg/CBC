@@ -9,7 +9,7 @@ export default function LoginPage() {
             <div className="hidden lg:flex lg:w-2/5 relative bg-gradient-to-br from-brand-500 to-brand-700">
                 <div className="relative w-full h-full">
                     <Image
-                        src="/images/signin.png"
+                        src="/images/siginin1.png"
                         alt="Sign In"
                         fill
                         className="object-cover"
